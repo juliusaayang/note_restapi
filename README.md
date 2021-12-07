@@ -1,16 +1,8 @@
 # note_restapi
 
-A new Flutter project.
+This is a note application that allows you save and load notes using REST API. all notes are saved using the API and loaded also
 
-## Getting Started
+![Screenshot_20211207-221116](https://user-images.githubusercontent.com/73750587/145113285-b45e0b06-1fcf-4abd-aba8-52e07be230bb.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20211207-221111](https://user-images.githubusercontent.com/73750587/145113293-316132bb-5357-4151-a760-2ed3f58edcd6.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
